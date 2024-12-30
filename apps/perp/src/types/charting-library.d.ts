@@ -7965,7 +7965,7 @@ export interface IChartWidgetApi {
    */
   setPriceToBarRatioLocked(value: boolean, options?: UndoOptions): void;
   /**
-   * Get an array of the heigh of all panes.
+   * Get an array of the height of all panes.
    *
    * **Example**
    * ```javascript
